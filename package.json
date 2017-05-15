@@ -39,6 +39,7 @@
     "csswring": "*",
     "ejs": "*",
     "eslint": "3.6.1",
+    "haml-coffee": "*",
     "jade": "*",
     "less": "*",
     "mocha": "3.1.0",
